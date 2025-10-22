@@ -15,8 +15,7 @@
 ## 💡 Sobre mí
 
 🧐 Desarrollador con enfoque **frontend y backend**, amante de las **arquitecturas limpias** y los proyectos con alma.  
-🌈 Me gusta dar personalidad al código — que sea tan elegante como funcional.  
-🌍 Vivo en **Santa Cruz de Tenerife, España** y disfruto transformar ideas en productos reales.
+🌍 Me gusta dar personalidad al código — que sea tan elegante como funcional.
 
 ---
 
