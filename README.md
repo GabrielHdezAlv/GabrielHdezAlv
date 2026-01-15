@@ -31,10 +31,10 @@
 ![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)
 
 ### ⚙️ Backend
-![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧰 Herramientas y DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,8 +48,13 @@
 
 ## 📊 Estadísticas de GitHub
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielHdezAlv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHdezAlv&layout=compact&theme=radical)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielHdezAlv&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHdezAlv&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
+
+</div>
 
 ---
 
@@ -60,8 +65,6 @@
 
 ---
 
-> 💬 *“La mejor manera de predecir el futuro es crearlo.” — Alan Kay*
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GabrielHdezAlv/GabrielHdezAlv/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/GabrielHdezAlv/GabrielHdezAlv/output/github-contribution-grid-snake-dark.svg" />
 </div>
